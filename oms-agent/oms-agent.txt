@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/DerRochie/infra-tools/main/oms-agent/split_file_aa
+https://raw.githubusercontent.com/DerRochie/infra-tools/main/oms-agent/split_file_ab
+https://raw.githubusercontent.com/DerRochie/infra-tools/main/oms-agent/split_file_ac
